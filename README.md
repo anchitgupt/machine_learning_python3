@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 
 Soft Used:
 * Python 3.6.2
@@ -8,7 +8,7 @@ Soft Used:
 
 Project files Include:
 
-1 Machine Learning First
+1. Machine Learning First
     *Contains Naive Bayes Algorithm
     *Breast Cancer Data Set Used
     * Example From The :
