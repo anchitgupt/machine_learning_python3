@@ -9,7 +9,12 @@ Soft Used:
 Project files Include:
 
 1. Machine Learning First
-    *Contains Naive Bayes Algorithm
-    *Breast Cancer Data Set Used
+    * Contains Naive Bayes Algorithm
+    * Breast Cancer Data Set Used
     * Example From The :
       https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
+2. Face Detection
+    * Using OpenCV
+    * Used Intel Cascade Classifier
+    * Reference from the :
+        https://github.com/shantnu/
