@@ -5,7 +5,6 @@ Soft Used:
 * Anaconda3
 * PyCharm
 
-
 Project files Include:
 
 1. Machine Learning First
