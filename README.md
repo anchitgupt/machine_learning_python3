@@ -20,5 +20,5 @@ Project files Include:
 3. Face Detection
     * Using OpenCV
     * Reference From the 
-        https://github.com/ageitgey/face_recognition
-        https://github.com/alphaguy4
+        * https://github.com/ageitgey/face_recognition
+        * https://github.com/alphaguy4
